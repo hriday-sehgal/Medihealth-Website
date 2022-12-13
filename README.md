@@ -10,6 +10,8 @@ It also have various other sections like fitness and exercises, Yoga and mental 
 It also has a live chat feature through which you can chat with a doctor and also a video call feature through which you can talk to a doctor one on one . 
 
 It is made using HTML,CSS and JavaScript and a bootstrap template is used which makes the website responsive on mobile as well.
+Api’s used are Tawk.to for live chat and 
+Agora sdk for video chat.
 
 PS it is currently in developing process and not fully completed .
 
