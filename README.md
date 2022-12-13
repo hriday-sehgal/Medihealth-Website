@@ -11,4 +11,6 @@ It also has a live chat feature through which you can chat with a doctor and als
 
 It is made using HTML,CSS and JavaScript and a bootstrap template is used which makes the website responsive on mobile as well.
 
+PS it is currently in developing process and not fully completed .
+
 
